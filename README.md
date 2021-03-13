@@ -4,29 +4,20 @@
 
 ## Background
 
-There's been a lot of hype in the news lately about cryptocurrency, so you want to take stock, so to speak, of the latest news headlines regarding Bitcoin and Ethereum to get a better feel for the current public sentiment around each coin.
+In this assignment I'm tasked with getting the latest news headlines regarding Bitcoin and Ethereum to get a better feel for the current public sentiment around each coin.
 
-In this assignment, you will apply natural language processing to understand the sentiment in the latest news articles featuring Bitcoin and Ethereum. You will also apply fundamental NLP techniques to better understand the other factors involved with the coin prices such as common words and phrases and organizations and entities mentioned in the articles.
+In order for me to find the sentiment I'll apply natural language processing to understand the sentiment in the latest news articles featuring Bitcoin and Ethereum. I'll also apply fundamental NLP techniques to better understand the other factors involved with the coin prices such as common words and phrases and organizations and entities mentioned in the articles.
 
-Complete the following tasks:
+Tasks to be completed:
 
-1. [Sentiment Analysis](#Sentiment-Analysis)
-2. [Natural Language Processing](#Natural-Language-Processing)
-3. [Named Entity Recognition](#Named-Entity-Recognition)
+1. Sentiment Analysis
+2. Natural Language Processing
+3. Named Entity Recognition
 
----
-
-### Files
-
-[Starter Notebook](Starter_Code/crypto_sentiment.ipynb)
-
----
-
-### Instructions
 
 #### Sentiment Analysis
 
-Use the [newsapi](https://newsapi.org/) to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
+I'll use the [newsapi](https://newsapi.org/) to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
 
 Use descriptive statistics to answer the following questions:
 
