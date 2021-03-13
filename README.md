@@ -1,6 +1,6 @@
 # Unit 12—Tales from the Crypto
 
-![Stock Sentiment](Images/crypto_news.jpeg)
+![Stock Sentiment](Images/crypto_news.jfif)
 
 ## Background
 
